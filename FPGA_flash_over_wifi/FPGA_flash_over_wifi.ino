@@ -7,8 +7,8 @@
 #include "driver/gpio.h"
 
 // ---------------- WIFI ----------------
-const char *ssid = "PVG";
-const char *password = "123456789";
+const char *ssid = "<SSID>";
+const char *password = "<Passward>";
 
 WebServer server(80);
 
